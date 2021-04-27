@@ -1,0 +1,7 @@
+you can dounload the dataset here 
+
+link : https://dockship.io/challenges/5f8817fc2ff55918a0995333/machine-learning-india-ai-challenge/leaderboard
+
+or 
+
+Kaggle link : https://www.kaggle.com/mlg-ulb/creditcardfraud/download
