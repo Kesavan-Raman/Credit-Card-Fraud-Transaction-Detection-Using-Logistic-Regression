@@ -20,7 +20,8 @@ This project implements a logistic regression model to detect credit card fraud 
 To install the necessary libraries, run:
 
 ```bash
-pip install -r requirements.txt
+pip install -r requirements.txt 
+```
 
 ## Dataset
 The dataset used in this project is the Credit Card Fraud Detection dataset from Kaggle. This dataset contains 284,807 transactions, with 492 fraudulent transactions and 284,315 non-fraudulent transactions. The dataset is highly imbalanced, with fraudulent transactions accounting for only 0.172% of all transactions.
